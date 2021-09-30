@@ -1,0 +1,12 @@
+frmMain = 43, 40, 486, 402, , 57, 25, 650, 643, C
+clsBlowfish = 44, 44, 539, 332, 
+clsCryptAPI = 110, 110, 548, 429, 
+clsGost = 0, 0, 438, 319, C
+clsSkipjack = 44, 44, 482, 363, C
+clsTEA = 8, 9, 545, 415, C
+clsTwofish = 35, 29, 560, 437, C
+clsRC4 = 22, 22, 524, 404, C
+clsSimpleXOR = 44, 44, 473, 327, C
+clsDES = 132, 132, 570, 451, 
+frmBenchmark = 60, 110, 531, 431, C, 22, 22, 451, 310, C
+Module1 = 22, 22, 451, 305, C
